@@ -55,3 +55,73 @@ You’re completing the Oracle Cloud Infrastructure (OCI) Data Science Professio
 - [ ]  Tracked experiments with ADS or MLflow equivalent
 - [ ]  Deployed model endpoint with versioning
 - [ ]  Monitoring dashboards and drift checks in place
+
+## Data Science Study Roadmap
+
+### Foundation (1-3 months)
+
+- **Mathematics & Statistics**
+    - Linear algebra fundamentals
+    - Probability theory
+    - Statistical inference
+    - Hypothesis testing
+- **Programming**
+    - Python basics
+    - Data structures and algorithms
+    - NumPy, Pandas for data manipulation
+    - Matplotlib, Seaborn for visualization
+
+### Data Analysis & Machine Learning (3-6 months)
+
+- **Exploratory Data Analysis**
+    - Data cleaning and preprocessing
+    - Feature engineering techniques
+    - Advanced visualization
+- **Machine Learning Fundamentals**
+    - Supervised learning (regression, classification)
+    - Unsupervised learning (clustering, dimensionality reduction)
+    - Model evaluation and validation
+    - Scikit-learn workflows
+
+### Advanced Topics (6-12 months)
+
+- **Deep Learning**
+    - Neural networks architecture
+    - TensorFlow or PyTorch
+    - Computer vision and NLP basics
+- **Big Data Technologies**
+    - SQL and NoSQL databases
+    - Apache Spark
+    - Cloud computing platforms
+- **MLOps**
+    - Model deployment and serving
+    - CI/CD for ML pipelines
+    - Model monitoring and maintenance
+
+### Specialization & Projects (Ongoing)
+
+- **Domain-specific applications**
+    - Choose an industry focus (healthcare, finance, etc.)
+    - Study relevant use cases and challenges
+- **Portfolio development**
+    - Build 3-5 comprehensive projects
+    - Contribute to open-source
+    - Participate in competitions (Kaggle)
+
+### Recommended Resources
+
+- **Books**
+    - "Python for Data Analysis" by Wes McKinney
+    - "Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow" by Aurélien Géron
+    - "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville
+- **Online Courses**
+    - Andrew Ng's Machine Learning courses on Coursera
+    - Fast.ai's Practical Deep Learning for Coders
+    - DataCamp or Codecademy for interactive programming practice
+- **Communities**
+    - Kaggle
+    - Stack Overflow
+    - Reddit's r/datascience and r/machinelearning
+
+> Remember: Data science is a continuous learning journey. Focus on building practical skills through projects rather than just consuming theoretical content.
+>
