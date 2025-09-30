@@ -57,7 +57,6 @@ You’re completing the Oracle Cloud Infrastructure (OCI) Data Science Professio
 - [ ]  Monitoring dashboards and drift checks in place
 
 ---
-
 ## Notes and links
 
 - Course title: **Oracle Cloud Infrastructure Data Science Professional**
